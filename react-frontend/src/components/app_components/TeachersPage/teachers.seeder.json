@@ -1,0 +1,44 @@
+[
+    {
+        "teacherId": 101,
+        "name": "Alice Johnson",
+        "department": "Math",
+        "yearsOfExperience": 5
+    },
+    {
+        "teacherId": 102,
+        "name": "Bob Smith",
+        "department": "Science",
+        "yearsOfExperience": 10
+    },
+    {
+        "teacherId": 103,
+        "name": "Catherine Lee",
+        "department": "English",
+        "yearsOfExperience": 7
+    },
+    {
+        "teacherId": 104,
+        "name": "David Brown",
+        "department": "History",
+        "yearsOfExperience": 15
+    },
+    {
+        "teacherId": 105,
+        "name": "Ella Davis",
+        "department": "Art",
+        "yearsOfExperience": 4
+    },
+    {
+        "teacherId": 106,
+        "name": "Frank Miller",
+        "department": "Physical Education",
+        "yearsOfExperience": 9
+    },
+    {
+        "teacherId": 107,
+        "name": "Grace Wilson",
+        "department": "Music",
+        "yearsOfExperience": 8
+    }
+]

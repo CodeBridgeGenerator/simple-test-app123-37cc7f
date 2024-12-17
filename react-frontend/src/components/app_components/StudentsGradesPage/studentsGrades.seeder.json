@@ -1,0 +1,58 @@
+[
+    {
+        "studentId": 201,
+        "name": "Henry Adams",
+        "grade": 9,
+        "mathGrade": "A",
+        "scienceGrade": "B+",
+        "englishGrade": "A"
+    },
+    {
+        "studentId": 202,
+        "name": "Isla Brooks",
+        "grade": 10,
+        "mathGrade": "B",
+        "scienceGrade": "A",
+        "englishGrade": "A-"
+    },
+    {
+        "studentId": 203,
+        "name": "Jack Carter",
+        "grade": 11,
+        "mathGrade": "A-",
+        "scienceGrade": "B",
+        "englishGrade": "B+"
+    },
+    {
+        "studentId": 204,
+        "name": "Kara Dunn",
+        "grade": 12,
+        "mathGrade": "C+",
+        "scienceGrade": "A-",
+        "englishGrade": "B"
+    },
+    {
+        "studentId": 205,
+        "name": "Liam Evans",
+        "grade": 9,
+        "mathGrade": "B",
+        "scienceGrade": "C",
+        "englishGrade": "A"
+    },
+    {
+        "studentId": 206,
+        "name": "Mia Foster",
+        "grade": 10,
+        "mathGrade": "A",
+        "scienceGrade": "B+",
+        "englishGrade": "B"
+    },
+    {
+        "studentId": 207,
+        "name": "Noah Green",
+        "grade": 11,
+        "mathGrade": "B+",
+        "scienceGrade": "A",
+        "englishGrade": "A-"
+    }
+]

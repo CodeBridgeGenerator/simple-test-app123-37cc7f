@@ -1,0 +1,44 @@
+[
+    {
+        "classId": 401,
+        "className": "Math 101",
+        "roomNumber": 101,
+        "teacherId": 101
+    },
+    {
+        "classId": 402,
+        "className": "Science 101",
+        "roomNumber": 102,
+        "teacherId": 102
+    },
+    {
+        "classId": 403,
+        "className": "English 101",
+        "roomNumber": 103,
+        "teacherId": 103
+    },
+    {
+        "classId": 404,
+        "className": "History 101",
+        "roomNumber": 104,
+        "teacherId": 104
+    },
+    {
+        "classId": 405,
+        "className": "Art 101",
+        "roomNumber": 105,
+        "teacherId": 105
+    },
+    {
+        "classId": 406,
+        "className": "PE 101",
+        "roomNumber": 106,
+        "teacherId": 106
+    },
+    {
+        "classId": 407,
+        "className": "Music 101",
+        "roomNumber": 107,
+        "teacherId": 107
+    }
+]

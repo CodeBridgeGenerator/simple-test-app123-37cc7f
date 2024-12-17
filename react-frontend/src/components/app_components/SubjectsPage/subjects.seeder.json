@@ -1,0 +1,44 @@
+[
+    {
+        "subjectId": 301,
+        "subjectName": "Math",
+        "teacherId": 101,
+        "credits": 4
+    },
+    {
+        "subjectId": 302,
+        "subjectName": "Science",
+        "teacherId": 102,
+        "credits": 4
+    },
+    {
+        "subjectId": 303,
+        "subjectName": "English",
+        "teacherId": 103,
+        "credits": 3
+    },
+    {
+        "subjectId": 304,
+        "subjectName": "History",
+        "teacherId": 104,
+        "credits": 3
+    },
+    {
+        "subjectId": 305,
+        "subjectName": "Art",
+        "teacherId": 105,
+        "credits": 2
+    },
+    {
+        "subjectId": 306,
+        "subjectName": "Physical Education",
+        "teacherId": 106,
+        "credits": 2
+    },
+    {
+        "subjectId": 307,
+        "subjectName": "Music",
+        "teacherId": 107,
+        "credits": 1
+    }
+]
